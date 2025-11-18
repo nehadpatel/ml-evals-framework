@@ -12,9 +12,16 @@ I am comparing tools for evulating classical ML models plus cutting edge LLM mod
     <th>Lang Fuse</th>
   </tr>
   <tr>
+    <td>Pros</td>
     <td></td>
     <td></td>
-    <th></th>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Cons</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
