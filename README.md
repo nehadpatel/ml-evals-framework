@@ -1,15 +1,20 @@
 # Evals Framework
 This repository contains comparisions of various evals framework like Weights and Biases, Evidently AI, LangFuse and such
 
+I am comparing tools for evulating classical ML models plus cutting edge LLM models.
+
 ## Comparisions
 <table>
   <tr>
-    <th>Name</th>
-    <th>Age</th>
+    <th></th>
+    <th>Evidently AI</th>
+    <th>Weights & Biases</th>
+    <th>Lang Fuse</th>
   </tr>
   <tr>
-    <td>Alice</td>
-    <td>24</td>
+    <td></td>
+    <td></td>
+    <th></th>
   </tr>
 </table>
 
